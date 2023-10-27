@@ -60,4 +60,18 @@ body{
     background-position: center;
     text-align: center;
 }
+.icons1{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-left: 10px;
+    margin: 10px;
+}
+.icons2{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin-right: 40px;
+    margin: 10px;
+}
 
